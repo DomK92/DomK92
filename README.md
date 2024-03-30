@@ -24,6 +24,15 @@
 
 ---
 
+### :man_technologist: About Me :
+CoGrammer Student: :man_student:
+
+- I am currently studying to be a software engineer. 
+
+  
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DomK92&theme=dark&background=000000)](https://git.io/streak-stats) 
